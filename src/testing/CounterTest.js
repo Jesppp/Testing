@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, fireEvent } from '@testing-library/react';
-import Counter from './Counter';
+import Counter from '../src/Counter';
 
 test('Teller komponenten øker og minsker telleren sånn den skal', () => {
   const { getByText } = render(<Counter />);
