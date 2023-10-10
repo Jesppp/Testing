@@ -27,4 +27,4 @@ class Teller extends Component {
   }
 }
 
-export default Counter;
+export default Teller;
