@@ -1,0 +1,81 @@
+"questions": [
+    {
+      "title": "What is my favorite food?",
+      "answers": [
+        { "answer": "Pizza" },
+        {
+          "answer": "Hamburger"
+        },
+        {
+          "answer": "Protein bar"
+        },
+        {
+          "answer": "Beef stroganoff",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "The dish contains meet."
+      }
+    }
+
+{
+      "title": "What is my favorite lifting movement?",
+      "answers": [
+        { "answer": "Deadlift" },
+        {
+          "answer": "Bicep curls"
+        },
+        {
+          "answer": "Overhead press"
+        },
+        {
+          "answer": "Incline bench press",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "It works the pec muscles."
+      }
+    }
+
+{
+      "title": "What is my favorite game?",
+      "answers": [
+        { "answer": "CS:GO" },
+        {
+          "answer": "League of legends"
+        },
+        {
+          "answer": "Baldur's gate 3"
+        },
+        {
+          "answer": "Epic seven",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "You can play it on your mobile phone."
+      }
+    }
+
+{
+      "title": "What is my favorite sport?",
+      "answers": [
+        { "answer": "Football" },
+        {
+          "answer": "Handball"
+        },
+        {
+          "answer": "Track"
+        },
+        {
+          "answer": "Bodybuilding",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "You need to reach muscular failure to succeed."
+      }
+    }
+  ]
