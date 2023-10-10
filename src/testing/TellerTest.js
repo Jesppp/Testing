@@ -1,9 +1,9 @@
 import React from 'react';
 import { render, fireEvent } from '@testing-library/react';
-import Counter from '../src/Counter';
+import Counter from '../src/Teller';
 
 test('Teller komponenten øker og minsker telleren sånn den skal', () => {
-  const { getByText } = render(<Counter />);
+  const { getByText } = render(<Teller />);
   const countElement = getByText('Count: 0');
   const incrementButton = getByText('Increment');
   const decrementButton = getByText('Decrement');
